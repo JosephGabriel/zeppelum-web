@@ -7,7 +7,7 @@ export const SpotlightGrid = styled.div`
   margin-top: 3rem;
   overflow: hidden;
   display: grid;
-  grid-gap: 1rem;
+  grid-gap: 2rem;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(4, 1fr);
   grid-template-areas:

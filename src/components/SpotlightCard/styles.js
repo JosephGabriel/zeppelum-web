@@ -34,6 +34,8 @@ export const Card = styled(Link)`
   position: relative;
   background-position: center;
   background-size: cover;
+  border-radius: 0.7rem;
+  overflow: hidden;
   ${getSpotlightHeight}
   ${getIndex}
 `;
