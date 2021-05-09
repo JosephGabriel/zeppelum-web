@@ -11,12 +11,14 @@ export const DATA = [
     id: "lkxzclzmdcikz",
     title: "Node.js",
     route: "/desenvolvimento-web/node-js",
-    img: "https://king.host/blog/wp-content/uploads/2018/07/js.png",
+    img:
+      "https://thinkific-import.s3.amazonaws.com/116598/LI0SoyXKQiyPSzjLs6Wo_node-new-image.png",
   },
   {
     id: "zçdlkcçzk",
-    title: "Node com Typescript",
-    route: "/desenvolvimento-web/nodejs-com-typescript",
-    img: "https://miro.medium.com/max/720/1*fxIh4OfxN1d6K6NuTakBFw.png",
+    title: "Docker",
+    route: "/desenvolvimento-web/docker",
+    img:
+      "https://res.cloudinary.com/practicaldev/image/fetch/s--PVxkYWbh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/95lem8hx4f5vwn7nq3wy.jpg",
   },
 ];
